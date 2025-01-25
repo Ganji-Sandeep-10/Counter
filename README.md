@@ -69,7 +69,7 @@ This project is a simple counter application built using React. The application 
 ## Author
 
 - **Ganji Sandeep**
-  - [Email](mailto:sandeep.ganji07@gmail.com)
+  - Email: sandeep.ganji07@gmail.com
   - [GitHub](https://github.com/Ganji-Sandeep-10)
 
 ## License
