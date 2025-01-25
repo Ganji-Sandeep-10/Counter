@@ -70,7 +70,7 @@ This project is a simple counter application built using React. The application 
 
 - **Ganji Sandeep**
   - [Email](mailto:sandeep.ganji07@gmail.com)
-  - [GitHub](https://github.com/your-profile)
+  - [GitHub](https://github.com/Ganji-Sandeep-10)
 
 ## License
 
