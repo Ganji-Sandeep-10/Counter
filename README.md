@@ -1,58 +1,53 @@
-Counter Application
+# Counter Application
 
 This project is a simple counter application built using React. The application allows users to:
 
-Increment or decrement a counter value.
+- Increment or decrement a counter value.
+- Set a custom increment value using an input field.
+- Reset the counter to 0.
 
-Set a custom increment value using an input field.
+## Features
 
-Reset the counter to 0.
+1. **Increment Counter:**
+   - Click the `+` button to increase the counter value by the specified increment value.
 
-Features
+2. **Decrement Counter:**
+   - Click the `-` button to decrease the counter value by the specified increment value.
 
-Increment Counter:
+3. **Reset Counter:**
+   - Click the `Reset` button to reset the counter value to 0.
 
-Click the + button to increase the counter value by the specified increment value.
+4. **Custom Increment Value:**
+   - Enter a number in the input field to specify the increment value.
 
-Decrement Counter:
+## Technologies Used
 
-Click the - button to decrease the counter value by the specified increment value.
+- **React:** Frontend framework for building the UI.
+- **JavaScript:** Logic for handling state and events.
+- **CSS:** Basic styling for the application.
 
-Reset Counter:
+## Setup Instructions
 
-Click the Reset button to reset the counter value to 0.
+1. **Clone the Repository:**
+   ```bash
+   git clone <repository-url>
+   cd counter-app
+   ```
 
-Custom Increment Value:
+2. **Install Dependencies:**
+   ```bash
+   npm install
+   ```
 
-Enter a number in the input field to specify the increment value.
+3. **Run the Application:**
+   ```bash
+   npm start
+   ```
+   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Technologies Used
+## File Structure
 
-React: Frontend framework for building the UI.
-
-JavaScript: Logic for handling state and events.
-
-CSS: Basic styling for the application.
-
-Setup Instructions
-
-Clone the Repository:
-
-git clone <repository-url>
-cd counter-app
-
-Install Dependencies:
-
-npm install
-
-Run the Application:
-
-npm start
-
-Open http://localhost:3000 to view it in the browser.
-
-File Structure
-
+```
 .
 ├── src
 │   ├── components
@@ -63,24 +58,21 @@ File Structure
 ├── public
 │   └── index.html       # HTML template
 └── README.md            # Project documentation
+```
 
-Future Improvements
+## Future Improvements
 
-Add input validation to prevent invalid or negative increment values.
+- Add input validation to prevent invalid or negative increment values.
+- Enhance the UI with better styling using Tailwind CSS or Material-UI.
+- Add animations for smoother transitions.
 
-Enhance the UI with better styling using Tailwind CSS or Material-UI.
+## Author
 
-Add animations for smoother transitions.
+- **Ganji Sandeep**
+  - [Email](mailto:sandeep.ganji07@gmail.com)
+  - [GitHub](https://github.com/your-profile)
 
-Author
-
-Ganji Sandeep
-
-Email
-
-GitHub
-
-License
+## License
 
 This project is licensed under the MIT License. Feel free to use and modify it.
 
